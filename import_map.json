@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "@dev_deps": "./dev_deps.ts",
+        "@deps": "./deps.ts"
+    }
+}
